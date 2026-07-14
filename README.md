@@ -3,7 +3,7 @@
 Backend API server for **Homez**, a modern real estate management platform.
 This server provides secure REST APIs for property management, authentication, wishlist functionality, and user management.
 
-🚀 Live API: https://homez-server-olive.vercel.app/
+🚀 Live API: https://homez-server-rho.vercel.app
 
 ---
 
@@ -108,7 +108,7 @@ HOMEZ_SERVER
 Clone the repository:
 
 ```bash
-git clone https://github.com/tfshorifulislam/homez-server
+git clone https://github.com/riazuddin4/homez-server
 ```
 
 Go to project directory:
@@ -319,7 +319,7 @@ This API is deployed using:
 
 Live:
 
-https://homez-server-olive.vercel.app/
+https://homez-server-rho.vercel.app
 
 ---
 
